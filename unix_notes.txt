@@ -1,3 +1,4 @@
+Mispelled->
 histroy > moving_around.txt
 ls
 subl moving_around.txt
@@ -48,6 +49,7 @@ c
 ..
 cd /
 ls etc/
+-> Moved to private locatoin
 cd private/
 ls private/
 cd ../../../../../../..
