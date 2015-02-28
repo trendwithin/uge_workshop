@@ -1,0 +1,255 @@
+histroy > moving_around.txt
+ls
+subl moving_around.txt
+rm -r testdir
+rm -r testdir/
+rm testdir/
+mkdir testdir
+alias rm='rm -i'
+c
+ll
+rm -i file.text
+touch file.text
+rm history_output
+cat history_output | less
+history >> history_output
+history > history_output
+ls -l
+cat history_output | grep "subl"
+history | grep "subl"
+subl history_output
+vi history_output
+touch history_output
+cd
+history | find "subl"
+histroy | find "subl"
+man man
+history | less
+history | less 10
+man more
+history | more
+history | less -10
+history
+cat .bash_history
+->Modified Git
+git --global
+git
+git --config
+git --system
+git config
+cat .bash_profile
+$HOME
+home
+ls . -find -F
+ls .
+ls ~
+cd Applications/
+c
+..
+cd /
+ls etc/
+cd private/
+ls private/
+cd ../../../../../../..
+rm -r del
+ls -a del
+ls del
+mkdir del
+pwd
+cd ~/Applications/
+cd button/
+cd WidgetResources/
+cd Library/
+cd ../System/
+cd Network/
+open .
+ls /Applications/
+cd ..
+man grep
+ls -2
+ls -1
+rm Penny.csv
+rm Tasty.csv
+cat Tasty.csv
+ls -L
+ls -L
+ls - L
+man -L
+man ls
+ls -G
+ls -da
+ls -a
+ls -d
+find -d . "hello"
+man find
+ls -lr Library/
+ls -lr etc
+ls -A
+ls -S
+ls -la
+ls -rta
+ls -r
+ls -lta
+ls -lt
+ls -ta
+ls -ta
+ls -t
+ls -la
+ls Volumes/
+cd ~
+cd CF_Unix_Git/
+-> Modify alias
+alias c='clear'
+clear
+git --version
+git --vers
+brew install git
+which ruby
+which uname
+git
+echo $PATH
+echo $EDITOR
+subl scrape_yahoo.rb
+cd scrape_yahoo_data/
+cd ruby_practice/
+curl -fsSL http://git.io/beJs | ruby
+git --verson
+exit
+echo $P
+subl /etc/paths
+echo
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew prune
+brew doctor
+whereis Sublime
+ls Applications/
+ln -s /Applications/Sublime\ Text\ 3.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+echo $EDITOR
+subl
+ls
+shell
+uname
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+cat .bash_rc
+brew in
+brew info fish
+fish_update_completions
+brew
+cd Downloads/
+whoami
+mkdir CF_Unix_Git
+irb
+ruby path_to_enlightenment.rb
+puts grays
+cd koans/
+ls /home
+cd /home
+ls -la public
+ls -a public
+ls -l tmp/
+ls -r public/
+ls -r log
+ls log
+ls -l | grep -f .git
+ls -l | grep -f
+ls -l | grep -d
+ls -ap
+ls ..
+ld -d
+ls -f
+cat raindrops.rb
+cd raindrops/
+cat beer_song_test.rb
+cd ../beer-song/
+ruby trinary_test.rb
+cat ../binary/binary.rb
+cat ../sieve/sieve.rb
+cat README.md
+cat trinary_test.rb
+cd ../trinary/
+exercism fetch ruby
+exercism submit etl.rb
+cat etl.rb
+vi about_methods.rb
+vi about_regular_expressions.rb
+vi beer_song.rb
+vi beer_song
+cat beer_song.rb
+vi beer_song.rb
+exercism submit trinary.rb
+vi trinary.rb
+cat trinary.rb
+cat trinary
+ruby beer_song_test.rb
+wq
+cat ../food-chain/food_chain.rb
+cat ../food-chain/proc_testing.rb
+cat ../food-chain/fc
+cat ../food-chain/food_chain.rb
+cat ../food-chain/food_chain.bu
+vi trinary_test.rb
+vi etl.rb
+cd ../etl/
+cat school.bu
+cat grade_school_test.rb
+cat school.rb
+cd ../grade-school/
+vi phone_number.rb
+exercism submit phone_number.rb
+cp phone_number.bu phone_number.rb
+mv phone_number.rb phone_number.bu
+cp phone_number.rb phone_number.rb
+mb phone_number.rb phone_number.bu
+cd ../phone-number/
+exercism submit array.rb
+vi array.rb
+cd ../strain/
+ruby prime_factors_test.rb
+ruby prime_factors.rb
+cd ../prime-factors/
+exercism submit prime_factors.rb
+vi prime_factors.rb
+cd prime-factors/
+cat phone_number.rb
+vi school.bu
+ruby grade_school_test.rb
+bury grade_school_test.rb
+vi school.rb
+mv school.rb school.bu
+cd ../grae
+exercism submit phone_number.rb
+ir
+ruby phone_number.rb
+vi phone_number
+ruby phone_number
+vi phone_number.rb
+vi series.rb
+vi series
+exercism submit series.rb
+exercism submit series.rb
+cat series.rb
+ruby series.rb
+ruby series
+vi series.rb
+vi ../grade-school/school.rb
+cd series/
+exercism submit school.rb
+vi school.rb
+cat school.rb
+v school.rb
+iv school.rb
+vi grade_school_test.rb
+ruby school.rb
+vi
+cd exercism/ruby/grade-school/
+cd exercism/ruby/gra
+vi etl_test.rb
+cd etl
+ls strain/
+vi strain_test.rb
+vi prime_factors_test.rb
+cat prime_factors_test.rb
+ls prime-factors/
+ls accumulate/
+ruby phone_number_test.rb
